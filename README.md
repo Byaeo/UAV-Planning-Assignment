@@ -1,0 +1,7 @@
+map_serber 文件夹内主要是有关于无人机建图和规划的功能包。
+map_generator 中是用于生成地图的代码，map_render 是将地图信息发送出去用于无人机的感知。
+quadrotor_simulator 中的 so3_control 是包含位置和速度控制器的部分，
+so3_quadrotor_simulator 中包含无人机的姿态控制以及四旋翼的控制器仿真。
+trajectory_generator 是无人机的轨迹规划部分，其中包含需要填写的 astar 路径搜索方法。
+Utils 包含着轨迹的发布，轨迹可视化等内容。
+代码中主要是A*改进算法的实现，其中部分想法（如引入贝塞尔曲线优化轨迹）没有实现，用了难度更低的替代手段
