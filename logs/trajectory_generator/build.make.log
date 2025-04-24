@@ -1,0 +1,24 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/trajectory_generator_node.dir/src/trajectory_generator_node.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/trajectory_generator_node.dir/src/trajectory_generator_waypoint.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/trajectory_generator_node.dir/src/Astar_searcher.cpp.o[0m
+In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/src/trajectory_generator/include/Astar_searcher.h:5[m[K,
+                 from [01m[K/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/src/trajectory_generator/src/Astar_searcher.cpp:1[m[K:
+[01m[K/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/src/trajectory_generator/src/Astar_searcher.cpp:[m[K In member function ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> > Astarpath::getVisitedNodes()[m[K’:
+[01m[K/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/src/trajectory_generator/src/Astar_searcher.cpp:95:12:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 8 has type ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+   95 |   ROS_WARN([01;35m[K"visited_nodes size : %d"[m[K, [32m[Kvisited_nodes.size()[m[K);
+      |            [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                         [32m[K|[m[K
+      |                                                         [32m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type {aka long unsigned int}[m[K
+[01m[K/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/src/trajectory_generator/src/Astar_searcher.cpp:95:35:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   95 |   ROS_WARN("visited_nodes size : [01;36m[K%d[m[K", visited_nodes.size());
+      |                                  [01;36m[K~^[m[K
+      |                                   [01;36m[K|[m[K
+      |                                   [01;36m[Kint[m[K
+      |                                  [32m[K%ld[m[K
+[01m[K/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/src/trajectory_generator/src/trajectory_generator_node.cpp:[m[K In function ‘[01m[Kvoid issafe(const ros::TimerEvent&)[m[K’:
+[01m[K/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/src/trajectory_generator/src/trajectory_generator_node.cpp:300:17:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Know_time[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  300 |       ros::Time [01;35m[Know_time[m[K = ros::Time::now();
+      |                 [01;35m[K^~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/trajectory_generator/lib/trajectory_generator/trajectory_generator_node[0m
+[100%] Built target trajectory_generator_node

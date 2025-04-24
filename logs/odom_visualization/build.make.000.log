@@ -1,0 +1,10 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/odom_visualization.dir/src/odom_visualization.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/odom_visualization/lib/odom_visualization/odom_visualization[0m
+/usr/bin/ld: 找不到 -lpose_utils
+collect2: error: ld returned 1 exit status
+CMakeFiles/odom_visualization.dir/build.make:123: recipe for target '/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/odom_visualization/lib/odom_visualization/odom_visualization' failed
+make[2]: *** [/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/odom_visualization/lib/odom_visualization/odom_visualization] Error 1
+CMakeFiles/Makefile2:1887: recipe for target 'CMakeFiles/odom_visualization.dir/all' failed
+make[1]: *** [CMakeFiles/odom_visualization.dir/all] Error 2
+Makefile:145: recipe for target 'all' failed
+make: *** [all] Error 2

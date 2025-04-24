@@ -1,0 +1,5 @@
+Symlinking /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/share/so3_control/cmake/so3_controlConfig-version.cmake
+Symlinking /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/share/so3_control/cmake/so3_controlConfig.cmake
+Symlinking /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/lib/libSO3Control.so
+Symlinking /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/lib/libso3_control_nodelet.so
+Symlinking /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/lib/pkgconfig/so3_control.pc

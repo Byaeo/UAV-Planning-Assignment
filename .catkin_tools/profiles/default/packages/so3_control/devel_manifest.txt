@@ -1,0 +1,7 @@
+quadrotor_simulator/so3_control
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/so3_control/cmake.lock /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/./cmake.lock
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/so3_control/share/so3_control/cmake/so3_controlConfig-version.cmake /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/share/so3_control/cmake/so3_controlConfig-version.cmake
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/so3_control/share/so3_control/cmake/so3_controlConfig.cmake /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/share/so3_control/cmake/so3_controlConfig.cmake
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/so3_control/lib/libSO3Control.so /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/lib/libSO3Control.so
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/so3_control/lib/libso3_control_nodelet.so /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/lib/libso3_control_nodelet.so
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/so3_control/lib/pkgconfig/so3_control.pc /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/lib/pkgconfig/so3_control.pc

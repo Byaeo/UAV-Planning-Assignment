@@ -1,0 +1,6 @@
+Utils/rviz_plugins
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/rviz_plugins/cmake.lock /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/./cmake.lock
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/rviz_plugins/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/rviz_plugins/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/rviz_plugins/lib/librviz_plugins.so /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/lib/librviz_plugins.so
+/home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/.private/rviz_plugins/lib/pkgconfig/rviz_plugins.pc /home/reek/astar/Mobile-Robot-Planning-Assignment-and-control/devel/lib/pkgconfig/rviz_plugins.pc
